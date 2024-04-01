@@ -1,7 +1,6 @@
 package ru.project;
 
-import org.springframework.data.annotation.Id;
-
+import org.
 public class Department {
     @Id long id;
     String name;
